@@ -1,0 +1,16 @@
+.nav {
+  display: flex;
+  margin-bottom: 1rem;
+  width: 100%;
+}
+
+.nav__link {
+  align-items: center;
+  border-radius: 50%;
+  border: 1px solid currentcolor;
+  display: flex;
+  height: 100px;
+  justify-content: center;
+  margin-right: 1rem;
+  width: 100px;
+}
